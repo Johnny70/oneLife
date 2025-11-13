@@ -1,13 +1,4 @@
 
-local world = {}
-
-world.currentAge = 1
-world.ages = {
-    {name = "Barndom", color = {0.5, 0.8, 1}},
-    {name = "Tonår", color = {0.8, 0.5, 1}},
-    {name = "Vuxen", color = {1, 0.8, 0.5}},
-    {name = "Ålderdom", color = {0.7, 0.7, 0.7}}
-}
 
 -- world.lua
 -- Handles different worlds/ages
